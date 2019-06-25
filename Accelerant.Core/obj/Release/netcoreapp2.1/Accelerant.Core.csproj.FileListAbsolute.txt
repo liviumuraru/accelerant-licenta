@@ -1,0 +1,9 @@
+C:\Projects\Accelerant\Accelerant.Core\bin\Release\netcoreapp2.1\Accelerant.Core.deps.json
+C:\Projects\Accelerant\Accelerant.Core\bin\Release\netcoreapp2.1\Accelerant.Core.dll
+C:\Projects\Accelerant\Accelerant.Core\bin\Release\netcoreapp2.1\Accelerant.Core.pdb
+C:\Projects\Accelerant\Accelerant.Core\obj\Release\netcoreapp2.1\Accelerant.Core.csprojAssemblyReference.cache
+C:\Projects\Accelerant\Accelerant.Core\obj\Release\netcoreapp2.1\Accelerant.Core.csproj.CoreCompileInputs.cache
+C:\Projects\Accelerant\Accelerant.Core\obj\Release\netcoreapp2.1\Accelerant.Core.AssemblyInfoInputs.cache
+C:\Projects\Accelerant\Accelerant.Core\obj\Release\netcoreapp2.1\Accelerant.Core.AssemblyInfo.cs
+C:\Projects\Accelerant\Accelerant.Core\obj\Release\netcoreapp2.1\Accelerant.Core.dll
+C:\Projects\Accelerant\Accelerant.Core\obj\Release\netcoreapp2.1\Accelerant.Core.pdb

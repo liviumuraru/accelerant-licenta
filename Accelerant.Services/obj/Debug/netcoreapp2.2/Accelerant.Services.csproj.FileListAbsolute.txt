@@ -1,0 +1,14 @@
+C:\Projects\Accelerant\Accelerant.Services\bin\Debug\netcoreapp2.2\Accelerant.Services.deps.json
+C:\Projects\Accelerant\Accelerant.Services\bin\Debug\netcoreapp2.2\Accelerant.Services.dll
+C:\Projects\Accelerant\Accelerant.Services\bin\Debug\netcoreapp2.2\Accelerant.Services.pdb
+C:\Projects\Accelerant\Accelerant.Services\bin\Debug\netcoreapp2.2\Accelerant.DataLayer.dll
+C:\Projects\Accelerant\Accelerant.Services\bin\Debug\netcoreapp2.2\Accelerant.DataTransfer.dll
+C:\Projects\Accelerant\Accelerant.Services\bin\Debug\netcoreapp2.2\Accelerant.DataLayer.pdb
+C:\Projects\Accelerant\Accelerant.Services\bin\Debug\netcoreapp2.2\Accelerant.DataTransfer.pdb
+C:\Projects\Accelerant\Accelerant.Services\obj\Debug\netcoreapp2.2\Accelerant.Services.csprojAssemblyReference.cache
+C:\Projects\Accelerant\Accelerant.Services\obj\Debug\netcoreapp2.2\Accelerant.Services.csproj.CoreCompileInputs.cache
+C:\Projects\Accelerant\Accelerant.Services\obj\Debug\netcoreapp2.2\Accelerant.Services.AssemblyInfoInputs.cache
+C:\Projects\Accelerant\Accelerant.Services\obj\Debug\netcoreapp2.2\Accelerant.Services.AssemblyInfo.cs
+C:\Projects\Accelerant\Accelerant.Services\obj\Debug\netcoreapp2.2\Accelerant.Services.csproj.CopyComplete
+C:\Projects\Accelerant\Accelerant.Services\obj\Debug\netcoreapp2.2\Accelerant.Services.dll
+C:\Projects\Accelerant\Accelerant.Services\obj\Debug\netcoreapp2.2\Accelerant.Services.pdb
